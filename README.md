@@ -59,7 +59,10 @@ To clean up any generated files and reset the build, run:
 make clean
 ```
 
-Acknowledgments:
+### License
+Distributed under the MIT License. See the `LICENSE` file for more information.
+
+### Acknowledgments:
 
 - QEMU for providing the virtualization software to test WatchOS.
 
