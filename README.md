@@ -1,5 +1,8 @@
 # WatchOS
 
+"What time is it?"
+"Time for you to get a watch!"
+
 **WatchOS** is a minimalist operating system that does one thing: display the current time in real-time. Built with C and assembly, WatchOS is a simple yet powerful project for understanding the basics of operating system development. It runs as a bootable ISO and can be tested using an emulator like QEMU.
 
 ## Features:
